@@ -16,7 +16,8 @@ Silver Layer 🥈 – Focuses on cleaning, standardizing, and normalizing the in
 
 Gold Layer 🥇 – Contains curated, business-ready datasets organized in a star schema, optimized for reporting and advanced analytics.
 
-![6CC232AC-9ADB-4F86-A31A-B5122EF9D8F5](https://github.com/user-attachments/assets/b5e4059e-af12-470d-8fa0-68b7eb77deb0)
+![6CC232AC-9ADB-4F86-A31A-B5122EF9D8F5](https://github.com/user-attachments/assets/34b0d6e7-0c74-40c4-a538-8b4f274e12c5)
+
 
 **Project Overview**
 ------------
