@@ -32,6 +32,7 @@ This project involves:
 
 4. Analytics & Reporting 📈 – Developing SQL-based reports and dashboards to uncover actionable business insights.
 
+
 **📂 Project Scope & Data Handling**
 ------------
 
