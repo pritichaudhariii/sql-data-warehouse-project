@@ -5,6 +5,7 @@ Welcome to the Data Warehouse and Analytics Project repository! 🚀
 
 This repository showcases a complete data warehousing and analytics solution — from building the warehouse to delivering actionable insights. It emphasizes best practices in data engineering, ETL processes, and modern analytics architecture.
 
+mfdreafrgeg
 **Data Architecture**
 ------------
 
